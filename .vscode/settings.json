@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "atomic": "c",
+        "condition_variable": "c",
+        "mutex": "c",
+        "__mutex_base": "c",
+        "semaphore": "c"
+    }
+}
